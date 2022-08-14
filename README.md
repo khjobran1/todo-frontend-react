@@ -5,4 +5,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 run `npm start` and here is the backend part: https://github.com/khjobran1/todo-backend-rails
 
 
-
